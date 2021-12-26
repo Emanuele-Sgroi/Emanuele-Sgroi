@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emanuele-Sgroi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I'm studying computer science
+- 🌱 I’m Improving my skills in programming
 - 💞️ I’m looking to collaborate on funny Projects
 - 📫 How to reach me: emanuelesgroi.dev@gmail.com
 
